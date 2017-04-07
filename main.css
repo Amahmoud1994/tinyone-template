@@ -1,0 +1,58 @@
+.banner .navbar{
+  padding: 2%;
+}
+.logo-container{
+  float: left;
+  padding-left: 12%;
+}
+.logo-name{
+  padding-top: 1%;
+}
+img{
+  width: 3%;
+  float: left;
+  display: inline-block;
+  color: yellow;
+}
+span{
+  color: black;
+  display: inline-block;
+  float: left;
+  padding-left: 1%;
+  padding-top: 0.5%;
+  font-weight: bold;
+}
+
+.banner{
+  background-color: yellow;
+  height: 100%;
+  min-height: 400px;
+  width: 100%;
+  position: relative;
+}
+
+.menu{
+  padding-top: 1%;
+  float: right;
+  padding-right: 17%;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    display: inline-block;
+}
+.menu li{
+
+  display: inline-block;
+}
+.menu li a {
+    color: black;
+    padding:16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.clear{
+  clear: both;
+}
