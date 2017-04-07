@@ -94,3 +94,75 @@ span{
 .rectangle .text img{
   width: 20%;
 }
+.section1{
+  padding-bottom: 5%;
+}
+
+.section1 .header-text{
+  padding-top: 6%;
+}
+
+.section1 .header-text h5{
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1%;
+}
+.section1 .header-text p{
+  text-align: center;
+  margin-bottom: 0%;
+  opacity: 0.8;
+}
+.box{
+  padding-bottom: 4%;
+}
+.box img{
+  width: 15%;
+  float: left;
+  padding-right: 1%;
+}
+.img-disc{
+  padding-left: 20%;
+}
+.img-disc h5{
+  font-weight: bold;
+}
+.img-disc p{
+  opacity: 0.5;
+}
+
+.footer{
+  background-color: black;
+  padding-bottom: 5%;
+}
+.footer .header-text{
+  padding-top: 6%;
+}
+.footer .header-text h5{
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1%;
+  color: yellow;
+}
+.footer .header-text p{
+  text-align: center;
+  margin-bottom: 0%;
+  color: white;
+  opacity: 0.6;
+}
+.search{
+  padding-left: 27%;
+}
+.search input{
+  width: 45%;
+  float: left;
+  border:12px solid white;
+  border-radius: 5px;
+  margin-right: 2%;
+}
+
+.search button{
+  width: 10%;
+  border:12px solid yellow;
+  border-radius: 5px;
+  background-color: yellow;
+}
