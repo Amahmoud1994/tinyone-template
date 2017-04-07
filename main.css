@@ -161,8 +161,18 @@ span{
 }
 
 .search button{
-  width: 10%;
+  width: 100px;
   border:12px solid yellow;
   border-radius: 5px;
   background-color: yellow;
+}
+.social-media{
+  padding-left: 45%;
+  display: inline-block;
+}
+.social-media img{
+  padding-top: 5%;
+  padding-right: 2%;
+  width: 5%;
+
 }
