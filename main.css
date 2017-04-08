@@ -3,7 +3,7 @@
 }
 .logo-container{
   float: left;
-  padding-left: 12%;
+  padding-left: 9%;
 }
 .logo-name{
   padding-top: 1%;
@@ -51,6 +51,22 @@ span{
     padding:16px;
     font-weight: bold;
     text-decoration: none;
+}
+.text h2{
+  padding-top: 10%;
+  font-weight: bold;
+  font-size: 150%;
+}
+.text h4{
+  font-size: 120%;
+  opacity: 0.8;
+  width: 49%;
+}
+.text h6{
+  font-size: 80%;
+  width: 60%;
+  opacity: 0.6;
+
 }
 
 .clear{
