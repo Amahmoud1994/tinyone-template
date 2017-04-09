@@ -91,7 +91,9 @@ span{
   width: 35px;
   display: inline-block;
 }
-
+.square-block {
+  width: 50%;
+}
 .rectangle{
   float: left;
   width: 230px;
