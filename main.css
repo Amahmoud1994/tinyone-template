@@ -116,6 +116,7 @@ span{
 }
 .rectangle .text img{
   width: 20%;
+  float: left;
 }
 .section1{
   padding-bottom: 5%;
