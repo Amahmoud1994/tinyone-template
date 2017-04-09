@@ -104,7 +104,9 @@ span{
 	background: black;
 
 }
-
+.row{
+  width: 70%;
+}
 .rectangle .text{
   position: relative;
   top: 40%;
