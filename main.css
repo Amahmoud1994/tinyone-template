@@ -1,15 +1,21 @@
+html{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+}
 .banner .navbar{
   padding: 2%;
 }
 .logo-container{
   float: left;
-  padding-left: 9%;
+  margin-left:8%;
+  width: 18%;
 }
 .logo-name{
   padding-top: 1%;
 }
-img{
-  width: 4%;
+
+.logo-container img{
+  width: 50px;
   float: left;
   display: inline-block;
   color: yellow;
@@ -18,7 +24,7 @@ span{
   color: black;
   display: inline-block;
   float: left;
-  padding-top: 0.5%;
+  padding-top: 1.5%;
   font-weight: bold;
 }
 
@@ -31,7 +37,6 @@ span{
 }
 
 .menu{
-  padding-top: 1%;
   float: right;
   padding-right: 17%;
 }
@@ -101,7 +106,7 @@ span{
 .rectangle .text{
   position: relative;
   top: 40%;
-  left: 30%;
+  left: 25%;
 }
 .rectangle .text span{
   padding-top: 3%;
@@ -140,7 +145,7 @@ span{
   padding-left: 20%;
 }
 .img-disc h5{
-  font-weight: bold;
+  font-weight: inherit;
 }
 .img-disc p{
   opacity: 0.5;

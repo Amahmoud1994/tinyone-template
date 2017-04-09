@@ -15,7 +15,9 @@
      *    IE on Windows Phone and in iOS.
      */
 html {
-  font-family: sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+
   /* 1 */
   line-height: 1.15;
   /* 2 */
